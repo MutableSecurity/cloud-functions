@@ -1,0 +1,4 @@
+flask==2.0.2
+flask-cors==3.0.10 
+pyrebase==3.0.27
+pyparsing<3,>=2.0.2

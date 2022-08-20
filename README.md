@@ -1,11 +1,13 @@
-# `cloud-functions` 📨
+# `cloud-functions`
 
-## Description 🖼️
+## Description
 
-**`cloud-functions`** contains the source code of the existent Google Cloud Functions.
+**`cloud-functions`** constains the source code of the existent Google Cloud Functions.
 
-## Functions 📃
+This repository is private. Links to content contained therein are not accessible to anyone outside the organization.
 
-| Name                  | Functionality                        |
-|-----------------------|--------------------------------------|
-| `add_to_waiting_list` | Adds an email into the waiting list. |
+## Functions
+
+| Name                  | Functionality                                    |
+| --------------------- | ------------------------------------------------ |
+| `add_to_waiting_list` | Adds an email into the waiting or feedback list. |

@@ -27,8 +27,6 @@ FIREBASE_CONFIG = {
 
 
 def dash_month_retention(event_data, context):
-    end_time = get_end_time()
-
     firebase = pyrebase.initialize_app(FIREBASE_CONFIG)
     database = firebase.database()
 

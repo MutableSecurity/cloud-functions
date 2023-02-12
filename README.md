@@ -1,12 +1,17 @@
-# `cloud-functions`
+<div align="center">
+    <img src="others/cover.webp" width="600px" alt="Cover">
+    <br/><br/>
+    <img src="https://img.shields.io/github/license/mutablesecurity/mutablesecurity?color=lightgray&label=license&logo=opensourceinitiative&style=flat-square&logoColor=white" alt="License">
+    <br/>
+</div>
 
-## Description
+---
+
+# Description
 
 **`cloud-functions`** constains the source code of the existent Google Cloud Functions.
 
-This repository is private. Links to content contained therein are not accessible to anyone outside the organization.
-
-## Functions
+# Functions
 
 | Name                  | Functionality                                    |
 | --------------------- | ------------------------------------------------ |
